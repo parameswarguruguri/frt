@@ -3,6 +3,8 @@ This is my FRT Internship project....
 
 azure link:https://myprojec.z29.web.core.windows.net/
 
+Project video link: 
+
 # Project Statement:
 
 The fashion and lifestyle industry faces several challenges in meeting the ever-evolving needs and preferences of consumers in a rapidly changing world. Addressing these challenges will require collaborative efforts from various stakeholders, including fashion designers, manufacturers, retailers, policymakers, and consumers themselves. By tackling these issues, the fashion and lifestyle industry can move towards a more sustainable, inclusive, and technologically advanced future.
@@ -52,3 +54,22 @@ Vs code
 7.After that I started my static web sevice and deployed my website on azure static web services.
 
 8.Finally my website was deployed on the azure web services and ready to use...
+
+# Screenshots
+
+Home Page-
+
+![Screenshot (59)](https://github.com/parameswarguruguri/frt/assets/113760801/c19c3837-f196-47bb-bf69-1267bd77d75e)
+
+About us-
+
+![Screenshot (62)](https://github.com/parameswarguruguri/frt/assets/113760801/7314ed1f-0bbd-4169-9565-ad3cffeaea30)
+
+Services-
+![Screenshot (64)](https://github.com/parameswarguruguri/frt/assets/113760801/55d4a46b-2484-44d1-a909-e4eb710685ce)
+
+Bot-
+![Screenshot (65)](https://github.com/parameswarguruguri/frt/assets/113760801/2720b854-2f13-4d7f-b098-85a6565f750f)
+
+Contact us-
+![Screenshot (63)](https://github.com/parameswarguruguri/frt/assets/113760801/26011879-a366-4e75-98d9-47b6af55f6ed)
