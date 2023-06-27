@@ -1,9 +1,10 @@
+FREDERICK ✨
 
 This is my FRT Internship project....
 
 azure link:https://myprojec.z29.web.core.windows.net/
 
-Project video link: 
+Project video link: https://youtu.be/NQxSYsnPP2g
 
 # Project Statement:
 
