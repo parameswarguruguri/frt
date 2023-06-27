@@ -1,6 +1,6 @@
 FREDERICK ✨
 
-This is my FRT Internship project....
+This is FRT Internship project....
 
 azure link:https://myprojec.z29.web.core.windows.net/
 
