@@ -21,6 +21,8 @@ A technical designer works with the design team and the factories overseas to en
 
 3.Container
 
+4.Azure Bot
+
 # Web Technologies used :
 
 1.HTML
