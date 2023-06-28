@@ -76,11 +76,14 @@ Contact us-
 ![Screenshot (63)](https://github.com/parameswarguruguri/frt/assets/113760801/26011879-a366-4e75-98d9-47b6af55f6ed)
 
 Collaborators - Team 201
-   Our Repositories : https://github.com/parameswarguruguri/frt
-1. Parameswara Reddy Guruguri
-2. Pankaj Kumar Reddy 
-3. Bhargav Nandula
-4. Kishan Sai Ramanapudi
+Our Project Repository : https://github.com/parameswarguruguri/frt
+
+          Name            -------        Github-userid's
+
+1. Parameswara Reddy Guruguri ------ (parameswarguruguri)
+2. Pankaj Kumar Reddy         ------    (pankaj996699)
+3. Bhargav Nandula            ------   (bhargavnandula)
+4. Kishan Sai Ramanapudi      ------   (kishansairamanapudi)
   
 
 
